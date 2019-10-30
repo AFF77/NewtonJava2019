@@ -16,6 +16,9 @@ public class TestGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+   
+    int a = 4;
+    System.out.println(a);
     }
     
 }
